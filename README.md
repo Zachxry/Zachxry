@@ -1,6 +1,7 @@
 - :octocat: @Zachxry 
-- Interested in Web Security, CTF's , Developement, and Bug Hunting.  
-- Currently working on personal projects
+- UTSA Cyber Security Graduate
+- Interested in Web Security, CTF's, Developement, and Bug Hunting.  
+- Working on personal projects
 - Contact via twitter Zachxry_FM 
 
 <!---
