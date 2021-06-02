@@ -1,8 +1,8 @@
-- :octocat: @Zachxry 
+- @Zachxry 
 - UTSA Cyber Security Graduate
-- Interested in Web Security, CTF's, Developement, and Bug Hunting.  
+- Interested in Offensive Security, CTF's, Developement, and Bug Hunting.  
 - Working on personal projects
-- Contact via twitter Zachxry_FM 
+- Contact via LinkedIn Zachary Marmolejo
 
 <!---
 Zachxry/Zachxry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
