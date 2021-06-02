@@ -1,5 +1,5 @@
 - @Zachxry 
-- UTSA Cyber Security Graduate
+- UTSA Cyber Security Grad
 - Interested in Offensive Security, CTF's, Developement, and Bug Hunting.  
 - Working on personal projects
 - Contact via LinkedIn [Zachary Marmolejo](https://www.linkedin.com/in/zachary-marmolejo-557515160/)
