@@ -2,7 +2,7 @@
 - UTSA Cyber Security Graduate
 - Interested in Offensive Security, CTF's, Developement, and Bug Hunting.  
 - Working on personal projects
-- Contact via LinkedIn Zachary Marmolejo
+- Contact via LinkedIn [Zachary Marmolejo](https://www.linkedin.com/in/zachary-marmolejo-557515160/)
 
 <!---
 Zachxry/Zachxry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
