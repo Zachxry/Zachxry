@@ -1,4 +1,3 @@
-- @Zachxry 
 - UTSA Cyber Security Grad
 - Interested in Offensive Security, CTF's, Developement, and Bug Hunting.  
 - Working on personal projects
