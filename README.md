@@ -1,5 +1,5 @@
-- Focused in Offensive Security and Developement 
-- Working on personal projects
+- Offensive Security and Developement 
+- Personal projects
 - Contact via LinkedIn [Zachary Marmolejo](https://www.linkedin.com/in/zachary-marmolejo-557515160/)
 
 <!---
